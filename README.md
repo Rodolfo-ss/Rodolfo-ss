@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-Estudando Javascript com React! vamo pra cima 🚀🚀🚀
+Estudando Javascript com React ! vamo pra cima 🚀🚀🚀
 
 
 
