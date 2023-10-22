@@ -1,7 +1,6 @@
    ### Ola, eu sou Rodolfo 🤙
 
-![Rodolfo-ss GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodolfo-ss&show_icons=true&theme=radical)
-
+![Rodolfo-ss GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodolfo-ss&show_icons=true&theme=transparent)
 
  Tecnologias que mais uso no dia dia.
 
