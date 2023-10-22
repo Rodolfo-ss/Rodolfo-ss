@@ -1,4 +1,4 @@
-   ### Ola eu sou Rodolfo 🤙
+   ### Ola, eu sou Rodolfo 🤙
 
 ![Rodolfo-ss GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodolfo-ss&show_icons=true&theme=radical)
 
